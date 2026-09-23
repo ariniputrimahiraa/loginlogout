@@ -20,7 +20,8 @@ body {
 
 .login-card {
   width: 100% !important;
-  max-width: 360px !important;
+  max-width: 400px !important;
+  height: 400px;
   background: #fff !important;
   padding: 30px !important;
   border-radius: 14px !important;
@@ -33,7 +34,7 @@ body {
 }
 
 .brand img {
-  width: 175px !important;
+  width: 100px !important;
   height: auto !important;
   display: block !important;
   margin: 0 auto !important;
